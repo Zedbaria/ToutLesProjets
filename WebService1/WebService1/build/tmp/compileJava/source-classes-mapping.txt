@@ -1,0 +1,4 @@
+com/example/WebService1/WebService1Application.java
+ com.example.WebService1.WebService1Application
+com/example/WebService1/MonWebService.java
+ com.example.WebService1.MonWebService
